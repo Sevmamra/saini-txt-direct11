@@ -3,12 +3,12 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "20432564"))
-API_HASH = environ.get("API_HASH", "6efd58342f75a088f8a7b4a15bdd35cd")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8323812805:AAHA_2e487Seo6hfBajSSNbeSbB4k3ddFYI")
+API_ID = int(environ.get("API_ID", "26797881"))
+API_HASH = environ.get("API_HASH", "9699262c708c2e45ba18bfce925ed5ed")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8568444176:AAFPAtgTXhmF0Sg39DG8l_k3VKlpFUOIiHY")
 
-OWNER = int(environ.get("OWNER", "8277882193"))
-CREDIT = environ.get("CREDIT", "Aditya OP")
+OWNER = int(environ.get("OWNER", "6567162029"))
+CREDIT = environ.get("CREDIT", "Nedits OP")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '8277882193').split(',')
